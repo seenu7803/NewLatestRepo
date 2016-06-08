@@ -139,6 +139,7 @@
     <Content Include="Views\First\FirstView.cshtml" />
     <Content Include="Views\First\SecondView.cshtml" />
     <Content Include="Views\First\ThirdView.cshtml" />
+    <Content Include="Views\First\FourthView.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

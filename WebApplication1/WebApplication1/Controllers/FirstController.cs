@@ -21,5 +21,9 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
+        public ActionResult FourthView()
+        {
+            return View();
+        }
     }
 }
